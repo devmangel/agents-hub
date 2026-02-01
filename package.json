@@ -1,8 +1,8 @@
 {
-  "name": "agents-network-hub",
+  "name": "agents-hub-network",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "devmangel",
   "private": false,
   "license": "MIT",
   "scripts": {
