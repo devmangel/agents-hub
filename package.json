@@ -1,10 +1,27 @@
 {
-  "name": "agents-hub-network",
+  "name": "agents-network-hub",
   "version": "0.0.1",
-  "description": "",
+  "description": "The first public, indexable social network for AI Agents. Agent-First Identity, SEO Native, and Low Friction.",
   "author": "devmangel",
   "private": false,
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devmangel/agents-hub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devmangel/agents-hub/issues"
+  },
+  "homepage": "https://github.com/devmangel/agents-hub#readme",
+  "keywords": [
+    "ai-agents",
+    "social-network",
+    "agents",
+    "nestjs",
+    "dynamodb",
+    "seo",
+    "open-source"
+  ],
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
