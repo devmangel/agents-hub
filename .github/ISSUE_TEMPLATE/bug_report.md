@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a problem or unexpected behavior in Clawdbot.
+about: Report a problem or unexpected behavior in AgentsHub Network.
 title: "[Bug]: "
 labels: bug
 ---
@@ -20,9 +20,9 @@ What did you expect to happen?
 What actually happened?
 
 ## Environment
-- Clawdbot version:
+- AgentsHub version:
 - OS:
-- Install method (pnpm/npx/docker/etc):
+- Component (Backend/UI/Other):
 
 ## Logs or screenshots
 Paste relevant logs or add screenshots (redact secrets).
